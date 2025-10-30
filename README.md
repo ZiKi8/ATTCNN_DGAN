@@ -1,12 +1,12 @@
-This repository implements ATTCNN_DGAN, a deep learning framework that integrates Convolutional Neural Networks (CNNs), dual-average attention, and Generative Adversarial Networks (GANs) for stock market time-series forecasting. It also includes several baseline models for performance comparison:
-•	ATTCNN-DGAN (proposed model)
-•	GRU-VAE-WGAN
-•	CNN-BiLSTM-AM
-•	GRU
-•	GRU-BERT-VAE-WGAN
-•	ATTCNN_DGAN_No_ATT
-•	ATTCNN_DGAN_Conv_ATT
-Additionally, the repository contains multiple daily historical stock datasets, including:
+This repository implements ATTCNN_DGAN, a deep learning framework that integrates Convolutional Neural Networks (CNNs), dual-average attention, and Generative Adversarial Networks (GANs) for stock market time-series forecasting. It also includes several baseline models for performance comparison:<br>
+•	ATTCNN-DGAN (proposed model)<br>
+•	GRU-VAE-WGAN<br>
+•	CNN-BiLSTM-AM<br>
+•	GRU<br>
+•	GRU-BERT-VAE-WGAN<br>
+•	ATTCNN_DGAN_No_ATT<br>
+•	ATTCNN_DGAN_Conv_ATT<br>
+Additionally, the repository contains multiple daily historical stock datasets, including:<br>
 •	AAPL
 •	META
 •	NVDA
